@@ -25,8 +25,8 @@
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
-## github trophies
+<!-- ## github trophies
 ![](https://github-profile-trophy.vercel.app/?username=vedantb2&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p !-->
 		

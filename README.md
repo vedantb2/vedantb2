@@ -7,11 +7,12 @@
 ![border-seperator](assets/borderseparator.gif) 
   
 ![](https://komarev.com/ghpvc/?username=vedantb2)
-## About Vineet
+
+## about vedant
 <p style="font-size:7px;">
-Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
+	computer science student in london. working at evalucom as a jr software engineer. i blog tech sometimes, make courses, and tinker around with side projects here n there.
 </p>
-<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p>
+
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
@@ -21,11 +22,11 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 <img src="https://streak-stats.demolab.com/?user=vedantb2&theme=holi-theme">
 </p>
 
-## github trophies
-![](https://github-profile-trophy.vercel.app/?username=vedantb2&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+
+## github trophies
+![](https://github-profile-trophy.vercel.app/?username=vedantb2&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
 		

@@ -1,15 +1,14 @@
-
 ![](https://komarev.com/ghpvc/?username=vedantb2)
 ![border-seperator](assets/borderseparator.gif) 
 
 <br>
 
+
 About
-- compsci student in london
-- jr swe at evalucom
-- building mode
-- trying to get into blogging
-- learning new tech and upskilling myself
+- compsci student · london<br>
+- jr software engineer @ evalucom<br>
+- developing stuff · learning in public<br>
+- writing sometimes · always exploring
 
 <br>
 

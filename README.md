@@ -24,7 +24,7 @@ About
 </details>
 
   
-<sub>feel free to message me on [X/Twitter](https://x.com/vvedantb2) or Discord **@vis.rr**</sub>
+<sub>feel free to message me on [X/Twitter](https://x.com/vvedantb) or Discord **@vis.rr**</sub>
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vvedantb)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vedantb1)

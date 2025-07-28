@@ -7,8 +7,6 @@
 About
 - compsci student · london<br>
 - jr software engineer @ evalucom<br>
-- developing stuff · learning in public<br>
-- writing sometimes · always exploring
 
 <br>
 
